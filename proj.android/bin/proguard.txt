@@ -1,0 +1,30 @@
+# view AndroidManifest.xml #generated:82
+-keep class com.baidu.android.pushservice.CommandService { <init>(...); }
+
+# view AndroidManifest.xml #generated:87
+-keep class com.baidu.android.pushservice.PushKeepAlive { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class com.baidu.android.pushservice.PushService { <init>(...); }
+
+# view AndroidManifest.xml #generated:49
+-keep class com.baidu.android.pushservice.PushServiceReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class com.baidu.android.pushservice.RegistrationReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class com.baidu.location.f { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class com.mob.tools.MobUIShell { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class com.pinle.pinlegame { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.pinle.pinlegame.wxapi.WXEntryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:8
+-keep class org.cocos2dx.cpp.AppActivity { <init>(...); }
+

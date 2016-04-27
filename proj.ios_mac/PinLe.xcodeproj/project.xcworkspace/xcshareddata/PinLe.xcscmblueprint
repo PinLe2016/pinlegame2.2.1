@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "dc7d047a-e1d7-8d40-a2de-b623279a7621++6797" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "dc7d047a-e1d7-8d40-a2de-b623279a7621++6797" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "427CDD27-3D82-40B3-A040-7845FB6B75A7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "dc7d047a-e1d7-8d40-a2de-b623279a7621++6797" : "PinLe\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PinLe",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "proj.ios_mac\/PinLe.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/123.57.136.223:8443\/svn\/Demo",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "dc7d047a-e1d7-8d40-a2de-b623279a7621++6797"
+    }
+  ]
+}

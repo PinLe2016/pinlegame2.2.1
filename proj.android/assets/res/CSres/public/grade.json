@@ -1,0 +1,74 @@
+ [
+  {
+  "name": "平民",
+  "points": 0,
+  "describe": "",
+  "grade": 0
+  },
+  {
+  "name": "骑士",
+  "points": 500,
+  "describe": "",
+  "grade": 1
+  },
+  {
+  "name": "勋爵",
+  "points": 1500,
+  "describe": "",
+  "grade": 2
+  },
+  {
+  "name": "男爵",
+  "points": 8000,
+  "describe": "",
+  "grade": 3
+  },
+  {
+  "name": "子爵",
+  "points": 15000,
+  "describe": "",
+  "grade": 4
+  },
+  {
+  "name": "伯爵",
+  "points": 40000,
+  "describe": "",
+  "grade": 5
+  },
+  {
+  "name": "侯爵",
+  "points": 80000,
+  "describe": "",
+  "grade": 6
+  },
+  {
+  "name": "公爵",
+  "points": 150000,
+  "describe": "",
+  "grade": 7
+  },
+  {
+  "name": "大公",
+  "points": 400000,
+  "describe": "",
+  "grade": 8
+  },
+  {
+  "name": "亲王",
+  "points": 800000,
+  "describe": "",
+  "grade": 9
+  },
+  {
+  "name": "王储",
+  "points": 2000000,
+  "describe": "",
+  "grade": 10
+  },
+  {
+  "name": "国王",
+  "points": 5000000,
+  "describe": "",
+  "grade": 11
+  }
+  ]
